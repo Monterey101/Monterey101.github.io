@@ -63,7 +63,7 @@ div {
 }
 
 .name {
-    width: 40%;
+    width: 25%;
     float: left;
     font-weight: bold;
     text-align: right;
@@ -72,7 +72,7 @@ div {
 }
 
 .description {
-    width: 60%;
+    width: 75%;
     float: right;
     text-align: left;
     text-indent: 5%;
