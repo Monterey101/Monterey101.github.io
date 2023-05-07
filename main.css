@@ -1,0 +1,93 @@
+.body {
+    margin: 0px;
+    font-family: sans-serif;
+    background: black;
+}
+
+div {
+    width: 100%;
+}
+
+.header {
+    position: fixed;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: small;
+    font-weight: 100;
+    background: black;
+}
+
+.content {
+    text-align: center;
+    /* background: black; */
+    padding-top: 50px;
+    padding-bottom: 10px;
+    font-size: large;
+    font-weight: 100;
+    color: white;
+    height: 100vh;
+}
+
+.page {
+    padding-inline: 20px;
+    color: rgb(200,200,200);
+    text-decoration: none;
+}
+
+.page:hover {
+    color: white;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.about {
+    text-align: center;
+    font-size: large;
+    margin: 200px;
+    font-weight: 400;
+    margin-top: 0px;
+    padding-top: 50px;
+}
+
+.section {
+    padding-bottom: 50px;
+    width: 90%;
+    display: inline-block;
+    font-size: large;
+    font-weight: 100;
+    /* background: white;; */
+}
+
+.name {
+    width: 40%;
+    float: left;
+    font-weight: bold;
+    text-align: right;
+    text-indent: -5%;
+    /* background: red; */
+}
+
+.description {
+    width: 60%;
+    float: right;
+    text-align: left;
+    text-indent: 5%;
+    /* background: green; */
+}
+
+.logo {
+    height: 100px;
+    padding-top: 20px;
+}
+
+.logos {
+    display: inline-block;
+}
+
+.download {
+    color: dodgerblue;
+}
