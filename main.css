@@ -46,7 +46,7 @@ div {
 
 .about {
     text-align: center;
-    font-size: 5vh;
+    font-size: 2vh;
     margin: 200px;
     font-weight: 400;
     margin-top: 0px;
@@ -67,7 +67,7 @@ div {
     float: left;
     font-weight: bold;
     text-align: right;
-    text-indent: -5%;
+    text-indent: -10%;
     /* background: red; */
 }
 
@@ -75,7 +75,6 @@ div {
     width: 75%;
     float: right;
     text-align: left;
-    text-indent: 5%;
     /* background: green; */
 }
 
